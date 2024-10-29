@@ -1,0 +1,4 @@
+(executable
+ (public_name lethe)
+ (name main)
+ (libraries unix))
